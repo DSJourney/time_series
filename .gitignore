@@ -1,0 +1,8 @@
+.DS_Store
+.python-version
+Icon*
+.ipynb_checkpoints
+erased*
+*.gdoc
+*.docx
+*.pptx
