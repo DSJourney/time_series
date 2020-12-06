@@ -6,3 +6,4 @@ erased*
 *.gdoc
 *.docx
 *.pptx
+data/train.csv
