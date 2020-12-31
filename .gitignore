@@ -7,3 +7,4 @@ erased*
 *.docx
 *.pptx
 data/train.csv
+data/train_clean.csv
