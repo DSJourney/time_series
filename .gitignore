@@ -9,3 +9,4 @@ erased*
 data/train.csv
 data/train_clean.csv
 notebooks/1. Data Wrangling/train_clean.csv
+data/stationary/train_clean_stationary.csv
