@@ -5,3 +5,10 @@
 This project was created to learn about time series. I am taking a public dataset called [Corporación Favorita Grocery Sales Forecasting.](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/overview) The dataset was put together by [Corporación Favorita](https://www.corporacionfavorita.com/) an Ecuatorian chain of grocery stores.
 
 **Goal:** Our initial goal for this project was to see if we can accurately forecast sales across the existing family of products for our selected store.
+
+1. Problem Identification
+2. Data Wrangling
+3. Exploratory Data Analysis
+4. Feature Engineering and Pre-Processing
+5. Modeling
+6. Final Report
